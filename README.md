@@ -11,7 +11,7 @@ This program will brute force any Instagram account you send it its way given a 
 
 ~~I'm no longer maintaining this project.~~
 
-### Support
+,<h1>Contact</h1>
 <h1>pavanraut9665@gmail.com</h1>
 
 ## Requirements
