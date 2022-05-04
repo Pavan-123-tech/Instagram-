@@ -4,7 +4,6 @@
 [![Version](https://img.shields.io/badge/Version-3.1.0-green)]()
 [![Python](https://img.shields.io/badge/Python-v3.9-yellow)]()
 [![Discord](https://img.shields.io/badge/Discord-server-blue)](https://discord.gg/VYRAZg5)
-[![Donate](https://img.shields.io/badge/PayPal-donate-orange)](https://www.paypal.me/Msheikh03)
 
 This program will brute force any Instagram account you send it its way given a list of proxies.
 
